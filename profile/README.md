@@ -12,7 +12,7 @@ Whether you want to tweak character stats, modify quest progress, or experiment 
 
 ### - 🔗 ***Get the Latest Version:***
 
-- [💾 Releases Page]() — `*Grab the newest build here*`
+- [💾 Releases Page](https://github.com/Baldurs-Gate-3-SaveEditor/.github/releases) — `*Grab the newest build here*`
 
 ---
 
